@@ -4,6 +4,11 @@
 
 Biz de bu repo ile oluşturduğumuz react uygulamalarımızı nasıl canlıya alıp kullanıcılara bir demo sayfası sunabileceğimizi öğreneceğiz.
 
+### Örnek Bir React-Github Deploy'u
+
+1. [Proje Linki](https://yavuzsametkan.github.io/reactjs-basic-routing-operations/)
+2. [GitHub Linki](https://github.com/YavuzSametKan/reactjs-basic-routing-operations)
+
 ### Başlayalım
 1. Terminal'i açın.
 2. React-app'inizin bulunduğu dizine gidin.
@@ -19,9 +24,9 @@ Biz de bu repo ile oluşturduğumuz react uygulamalarımızı nasıl canlıya al
     
     Git-Bash ile atabilirsiniz;
     ```
-    git init // git dosyası yoksa initialize et.
-    git add . // değişiklikleri kaydet
-    git commit -m 'commit-message' // değişiklikleri commit'le
+    git init // .git dosyası yoksa initialize et.
+    git add . // Değişiklikleri kaydet
+    git commit -m 'commit-message' // Değişiklikleri commit'le
     git brach -M main // main branch'ine geç
     git remote add origin https://github.com/githubKullanıcıAdı/repoAdı.git // Repo'yu eşle
     git push -u origin main // Projeyi gönder
