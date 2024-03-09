@@ -43,7 +43,7 @@ Biz de bu repo ile oluşturduğumuz react uygulamalarımızı nasıl canlıya al
    ```
 7. Terminal'i tekrar açın ve aşağıdaki kodu yazın.
     ```
-    npm start deploy
+    npm run deploy
     ```
 8. GitHub repo'nuzun ana sayfasından `Settings` > `Pages` kısmına gidin.
     <br/><br/>
