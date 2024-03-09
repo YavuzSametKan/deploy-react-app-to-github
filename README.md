@@ -22,10 +22,10 @@ Biz de bu repo ile oluşturduğumuz react uygulamalarımızı nasıl canlıya al
     git init // git dosyası yoksa initialize et.
     git add . // değişiklikleri kaydet
     git commit -m 'commit-message' // değişiklikleri commit'le
-    git brach -M 'main' // main branch'ine geç
+    git brach -M main // main branch'ine geç
     git remote add origin https://github.com/githubKullanıcıAdı/repoAdı.git // Repo'yu eşle
-    git push -u origin 'main' // Projeyi gönder
-    git push -u origin 'main' --force // Eğer bir üstteki komut hata verirse kullan
+    git push -u origin main // Projeyi gönder
+    git push -u origin main --force // Eğer bir üstteki komut hata verirse kullan
     ```
 6. Projenin `package.json` dosyasına girin ve aşağıdaki eklemeleri yapın.
     ```
